@@ -1,0 +1,5 @@
+{
+  "name": "Grid Balancer",
+  "description": "A high-stakes energy management simulation. Balance the city's power grid against solar fluctuations and surging demand to prevent blackouts or explosions.",
+  "requestFramePermissions": []
+}
